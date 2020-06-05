@@ -1,0 +1,66 @@
+.col1
+{
+    background-color: black;
+   
+}
+.r1
+{
+    height: 100px;
+}
+.c1
+{
+    margin-top: 30px;
+   border: 3px solid;
+}
+.col2
+{
+    background-color: black;
+}
+.r2
+{  
+    background-image: url('11.jpg');
+    height: 300px;
+}
+.r3
+{  
+    height: 1500px;
+    background-color:white;
+}
+.r6
+{
+    background-color: black;
+    height: 395px;
+}
+p{
+    padding-top: 80px;
+}
+h1
+{
+    padding-top: 30px;
+}
+h5
+{
+   padding-top: 50px;
+}
+h2
+{
+    padding-top: 70px;
+}
+form
+{
+    padding-top: 50px;
+}
+body{
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-image: url('3.jpg');
+}
+.col6,.col7,.col8
+{
+    padding-top: 20px;
+}
+#map
+{
+    height: 1500p;
+    width:300px;
+}
